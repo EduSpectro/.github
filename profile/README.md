@@ -11,11 +11,11 @@ EduSpectro（エデュ・スペクトロ）へようこそ！
 ## 🚀 はじめての方へ（Getting Started）
 どこから始めていいか迷ったら、このステップをチェック！
 
-1. **[📖 総合ガイドを見る]**  
+1. **[📖 総合ガイドを見る](https://eduspectro.github.io/)**  
    まずは分光器で何ができるのか、どんな材料が必要かを知ろう！
-2. **[🛠️ 装置を組み立てる (Station & 4X)]**  
+2. **[🛠️ 装置を組み立てる (Station & 4X)](https://github.com/EduSpectro/EduSpectro4X)**  
    3Dプリンタでケースを作り、RP2350マイコンをセットしよう。
-3. **[📊 アプリを動かす (Lab)]**  
+3. **[📊 アプリを動かす (Lab)](https://github.com/EduSpectro/EduSpectroLab)**  
    パソコンにアプリをダウンロードして、光を測ってみよう！
 
 ---
