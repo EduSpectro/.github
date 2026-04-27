@@ -39,8 +39,9 @@ EduSpectroは3つのパーツでできています。
 - 💡 **「こんな機能がほしい」**：アイデアをいつでも募集しています。
 
 ---
-[Webサイトはこちら](https://eduspectro.github.io/)
-[お問い合わせ](https://github.com/orgs/EduSpectro/discussions)
-[利用規約とライセンス]
-
+[Webサイトはこちら](https://eduspectro.github.io/) <br>
+[お問い合わせ](https://github.com/orgs/EduSpectro/discussions) <br>
+[利用規約とライセンス](https://github.com/EduSpectro/EduSpectro4X/blob/main/LICENSE) <br>
+<br>
+<br>
 **Let's make science visible! 🚀🌈**
